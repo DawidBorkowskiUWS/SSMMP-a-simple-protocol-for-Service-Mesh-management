@@ -1,5 +1,8 @@
 # SSMMP-a-simple-protocol-for-Service-Mesh-management
-![alt text](https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMPClusterImage.png?raw=true?raw=true)
+<p align="center">
+  <img src="https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMPClusterImage.png" />
+</p>
+
 ###
 The idea is that microservices of Cloud-Native Application (CNApp) should be also involved in configurations of their communication sessions. It does not interfere with the business logic of the microservices and requires only minor and generic modifications of the microservices codebase, limited only to network connections. 
 - The main actors of the protocol are: Manager, agents, and running instances of services (API Gateways, regular microservices, and BaaS services). 
@@ -15,8 +18,10 @@ Agent acts as an intermediary in performing the tasks assigned by the Manager.
   - At a request of Manager, agent can execute instances of services whose bytecodes are available in its repository or shut down these instances. 
   - Manager can also shut down (via its agent) a running instance that is not being used, is malfunctioning, or is being moved to another node.
 # The abstractions
-![alt text](https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMPAbstractionImage.png?raw=true?raw=true)
-###
+<p align="center">
+  <img src="https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMPAbstractionImage.png" />
+</p>
+
 ## SSMMP is based on the two abstraction: 
 -	abstract definition of service of CNApp,
 -	abstract graph of CNApp. 
@@ -41,8 +46,10 @@ Separation of these abstract notions from deployment is important.
 The novelty of SSMMP consists in the dynamic establishment and closing of communication sessions at runtime based on the configurations assigned to sockets and plugs by the Manager.
 
 # A simple test CNApp for the SSMMP protocol
-![alt text](https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMPSimpleTestCNApp.png?raw=true?raw=true)
-###
+
+<p align="center">
+  <img src="https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMPSimpleTestCNApp.png" />
+</p>
 The basic functionality of the application is as follows.
 User interface is Command Line Interface (CLI). 
 CLI communicates (via TCP) only with  API Gateway.
