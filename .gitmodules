@@ -1,3 +1,6 @@
 [submodule "ServiceMeshProj"]
 	path = ServiceMeshProj
 	url = https://github.com/Camprite/ServiceMeshProj.git
+[submodule "SSMMP"]
+	path = SSMMP
+	url = https://github.com/MichalZukUWS/SSMMP
