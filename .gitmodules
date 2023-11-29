@@ -1,0 +1,3 @@
+[submodule "ServiceMeshProj"]
+	path = ServiceMeshProj
+	url = https://github.com/Camprite/ServiceMeshProj.git
