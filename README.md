@@ -122,8 +122,8 @@ This requires dynamic configurations of network addresses and port numbers for p
 The novelty of SSMMP lies in the smart use of these configurations. A similar idea has been used by Netflix at the software level, but has not been fully explored.
 <br>
 <br>
-The formal specification of SSMMP is <a href=""> here </a> (HYPERLINK). 
-The complete description of SSMMP is at <a href="https://arxiv.org/abs/2305.16329"> arXive </a>, and as a slide presentation is <a href=""> here </a>. 
+The formal specification of SSMMP is <a href="https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMP_specifi"> here </a> (HYPERLINK). 
+The complete description of SSMMP is at <a href="https://arxiv.org/abs/2305.16329"> arXive </a>, and as a slide presentation is <a href="https://github.com/DawidBorkowskiUWS/SSMMP-a-simple-protocol-for-Service-Mesh-management/blob/main/SSMMP_ang.pdf"> here </a>. 
 
 # Summary of the short intro to SSMMP
 SSMMP is simple if we consider its description presented above, and especially the complete formal specification. 
