@@ -122,8 +122,8 @@ This requires dynamic configurations of network addresses and port numbers for p
 The novelty of SSMMP lies in the smart use of these configurations. A similar idea has been used by Netflix at the software level, but has not been fully explored.
 <br>
 <br>
-The formal specification of SSMMP is here (HYPERLINK). 
-The complete description of SSMMP is at arXive, and as a slide presentation is here. 
+The formal specification of SSMMP is <a href=""> here </a> (HYPERLINK). 
+The complete description of SSMMP is at <a href="https://arxiv.org/abs/2305.16329"> arXive </a>, and as a slide presentation is <a href=""> here </a>. 
 
 # Summary of the short intro to SSMMP
 SSMMP is simple if we consider its description presented above, and especially the complete formal specification. 
@@ -137,7 +137,7 @@ Separation of these abstract notions from deployment is important.
 The novelty of SSMMP consists in the dynamic establishment and closing of communication sessions at runtime based on the configurations assigned to sockets and plugs by the Manager.
 <br>
 <br>
-Although a similar approach has already been used in Netflix  (as dedicated software), it can be fully exploited in Netflix by extending the network protocol stack with SSMMP. 
+Although a similar approach has already been used in <a href="https://netflixtechblog.com/zero-configuration-service-mesh-with-on-demand-cluster-discovery-ac6483b52a51?gi=1a42415024ae"> Netflix </a>   (as dedicated software), it can be fully exploited in Netflix by extending the network protocol stack with SSMMP. 
 <br>
 <br>
 Since executing, scaling and reconfiguration of CNApp can be done by SSMMP, it seems reasonable to include SSMMP as an integral part of CNApp. 
