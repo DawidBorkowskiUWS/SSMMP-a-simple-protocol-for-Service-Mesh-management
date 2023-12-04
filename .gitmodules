@@ -4,3 +4,6 @@
 [submodule "SSMMP"]
 	path = SSMMP
 	url = https://github.com/MichalZukUWS/SSMMP
+[submodule "SSMMPProject"]
+	path = SSMMPProject
+	url = https://github.com/JakubZurawickiUWS/SSMMPProject
