@@ -7,3 +7,6 @@
 [submodule "SSMMPProject"]
 	path = SSMMPProject
 	url = https://github.com/JakubZurawickiUWS/SSMMPProject
+[submodule "ServiceMeshP"]
+	path = MeshService
+	url = https://github.com/ArtiFixal/MeshService.git
