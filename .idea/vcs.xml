@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MeshService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SSMMP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SSMMPProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ServiceMeshProj" vcs="Git" />
+  </component>
+</project>
