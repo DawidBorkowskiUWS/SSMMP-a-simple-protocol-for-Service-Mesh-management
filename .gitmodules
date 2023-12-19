@@ -10,3 +10,6 @@
 [submodule "ServiceMeshP"]
 	path = MeshService
 	url = https://github.com/ArtiFixal/MeshService.git
+[submodule "ServiceMashProject"]
+	path = ServiceMashProject
+	url = https://github.com/mMemeMan/ServiceMashProject.git
