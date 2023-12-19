@@ -185,12 +185,14 @@ Requests and responses are objects of class String.
   - Rafał Geresz
 ## Team 4:
   - Jakub Żurawicki
-  - Yahor Novik
-  - Artur Gubanovich
+  - Jakub Bonda
+  - Mateusz Kielak
 ## Team 5:
   - Yahor Falkouski
   - Władysław Sak
   - Serhii Humenniy
+  - Yahor Novik
+  - Artur Gubanovich
 
 The implementations clearly show that SSMMP should be viewed (by developers) as an integral part of CNApps. 
 
