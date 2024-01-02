@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MeshService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SSMMP" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SSMMPProj" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SSMMPProject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ServiceMashProject" vcs="Git" />
