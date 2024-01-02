@@ -191,6 +191,7 @@ Requests and responses are objects of class String.
   - Yahor Falkouski
   - Władysław Sak
   - Serhii Humenniy
+## Team 6:
   - Yahor Novik
   - Artur Gubanovich
 
